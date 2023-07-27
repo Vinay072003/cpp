@@ -1,0 +1,13 @@
+How To make e commerce website using  wordpress
+1. cpanel se install karte hai wordpress ko    wordpress -content managment system(drag and drop)
+recommeded for e-commerce(amzon,flipkart)
+2. install karte vakat choose domain par website coce karo aue WP default hatavo
+nahi to harmea webiste /wp me aeka
+3. wordpress admin accout me passwardset karo
+4. install karo
+5. apke domain par default theme aega
+5. /WP-ADMIN se wordpress login karych
+then apperance->theme->new theme-Astra(theme ke andar alag alag website hota hai)
+6. install-activate theme 
+7. welcome ata hai get started install karo
+8. uke bad apperence me stater theplate->elementor->choos ecommerce design
